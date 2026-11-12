@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=Hello%2C+I%27m+Mehrad;Python+Developer;Web+Designer;Turning+ideas+into+digital+products)](https://github.com/Hajmehrad)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=Hello%2C+I%27m+Mehrad;Python+Developer;Web+Designer;Turning+ideas+into+digital+products)](https://github.com/mehradcodes)
 
 **`Python Developer · Web Designer · Builder`**
 
@@ -39,12 +39,12 @@ class Mehrad:
 
 | Project | What it is | Link |
 |---|---|---|
-| [TriLex](https://github.com/Hajmehrad/TriLex) | Trilingual German–English–Persian dictionary web app | [Live demo](https://hajmehrad.github.io/TriLex/) |
-| [Parniyan](https://github.com/Hajmehrad/Parniyan) | 3D manteau atlas — interactive 3D catalogue | [Live demo](https://hajmehrad.github.io/Parniyan/) |
-| [atm-system](https://github.com/Hajmehrad/atm-system) | Persian ATM system in Python (`pip install atm-system`) | [Repo](https://github.com/Hajmehrad/atm-system) |
-| [deutsch-stadt](https://github.com/Hajmehrad/deutsch-stadt) | Virtual German town — Next.js + TypeScript, interactive city map | [Repo](https://github.com/Hajmehrad/deutsch-stadt) |
-| [mobile_abad](https://github.com/Hajmehrad/mobile_abad) | Mobile phone parts quiz — interactive walkthrough | [Repo](https://github.com/Hajmehrad/mobile_abad) |
-| [Link](https://github.com/Hajmehrad/Link) | Link-in-bio page | [Live demo](https://hajmehrad.github.io/Link/) |
+| [TriLex](https://github.com/mehradcodes/TriLex) | Trilingual German–English–Persian dictionary web app | [Live demo](https://mehradcodes.github.io/TriLex/) |
+| [Parniyan](https://github.com/mehradcodes/Parniyan) | 3D manteau atlas — interactive 3D catalogue | [Live demo](https://mehradcodes.github.io/Parniyan/) |
+| [atm-system](https://github.com/mehradcodes/atm-system) | Persian ATM system in Python (`pip install atm-system`) | [Repo](https://github.com/mehradcodes/atm-system) |
+| [deutsch-stadt](https://github.com/mehradcodes/deutsch-stadt) | Virtual German town — Next.js + TypeScript, interactive city map | [Repo](https://github.com/mehradcodes/deutsch-stadt) |
+| [mobile_abad](https://github.com/mehradcodes/mobile_abad) | Mobile phone parts quiz — interactive walkthrough | [Repo](https://github.com/mehradcodes/mobile_abad) |
+| [Link](https://github.com/mehradcodes/Link) | Link-in-bio page | [Live demo](https://mehradcodes.github.io/Link/) |
 
 ---
 
@@ -67,7 +67,7 @@ class Mehrad:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40mehrad.codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehrad.codes)
 [![Telegram](https://img.shields.io/badge/Telegram-%40mehradcodes-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mehradcodes)
-[![Bio Link](https://img.shields.io/badge/🌐_Bio_Link-7C3AED?style=for-the-badge&logoColor=white)](https://hajmehrad.github.io/Link/)
+[![Bio Link](https://img.shields.io/badge/🌐_Bio_Link-7C3AED?style=for-the-badge&logoColor=white)](https://mehradcodes.github.io/Link/)
 [![Email](https://img.shields.io/badge/📧_Email-2F5D8C?style=for-the-badge&logoColor=white)](mailto:mehrad.mehrad.mehrad1487@gmail.com?subject=GitHub%20Contact&body=Hi%20Mehrad,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch.%0A)
 
 </div>
