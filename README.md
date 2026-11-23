@@ -67,7 +67,7 @@ class Mehrad:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40mehrad.codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehrad.codes)
 [![Telegram](https://img.shields.io/badge/Telegram-%40mehradcodes-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mehradcodes)
-[![Bio Link](https://img.shields.io/badge/🌐_Bio_Link-7C3AED?style=for-the-badge&logoColor=white)](https://mehradcodes.github.io/Link/)
+[![Website](https://img.shields.io/badge/🌐_Website-7C3AED?style=for-the-badge&logoColor=white)](https://mehradcodes.ir/)
 [![Email](https://img.shields.io/badge/📧_Email-2F5D8C?style=for-the-badge&logoColor=white)](mailto:mehrad.mehrad.mehrad1487@gmail.com?subject=GitHub%20Contact&body=Hi%20Mehrad,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch.%0A)
 
 </div>
